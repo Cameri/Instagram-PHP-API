@@ -11,7 +11,7 @@ namespace MetzWeb\Instagram;
  * @author Christian Metz
  * @since 30.10.2011
  * @copyright Christian Metz - MetzWeb Networks 2011-2014
- * @version 2.2
+ * @version 2.3
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  */
 class Instagram
